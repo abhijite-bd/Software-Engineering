@@ -6,7 +6,7 @@
 "Academic Assistant" software is designed to support students, teachers, and administrators in an academic environment. It typically includes features such as assignment and grade management, communication tools, course scheduling, resource repositories, attendance tracking, personalized dashboards, and secure user authentication. The software aims to enhance collaboration, streamline administrative tasks, and provide insights through reporting and analytics. The specific functionalities may vary, and users can expect a user-friendly interface accessible on various devices.
 
 # Key features and Functionalities:
-![feature](https://drive.google.com/file/d/1Skl-SYzgd5K42JmsDEuJnQjkjGa78h8h/view?usp=sharing)
+![feat](https://github.com/abhijite-bd/Software-Engineering/assets/72153723/20034a52-77cb-4aab-a8fc-60931af1b7f0)
 ### 1. User Roles:
 #### Students:
 - Access to personal academic records.  
@@ -70,7 +70,7 @@
 
 # This project idea is implememted by classical Waterfall Model
 
-![Sample Image](https://drive.google.com/file/d/18MFlV7_tkiR6PTB_DMVqFRiL0IAt6rml/view?usp=sharing)
+![Screenshot 2024-01-18 185642](https://github.com/abhijite-bd/Software-Engineering/assets/72153723/0d54d23e-adb7-4a15-9889-d943d37ac0b7)
 
 ## 1. Planning Phase - Academic Assistant: VisionCraft
 In this phase, the team defines the overall vision and scope of the Academic Assistant project. Stakeholders are identified, and their needs and expectations are analyzed.
@@ -90,10 +90,12 @@ The system design phase involves creating a blueprint for the Academic Assistant
 #### Activities:
 Develop a high-level design specifying the overall system architecture.
 Create a detailed design that outlines the data models, user interfaces, and interactions.   
-![course](https://drive.google.com/file/d/1VVwRY6OwFx1ELGeYpuwJkUZIcN-100B4/view?usp=sharing)  
-![attendence](https://drive.google.com/file/d/10X7V4kytEdx8E04pFhffyQ_CUquYMPR0/view?usp=sharing)  
-![cgpa calculator](https://drive.google.com/file/d/1Gxty1HERBqYxjNH9zLdaNsuol7ttPpTC/view?usp=sharing)  
-![resource](https://drive.google.com/file/d/1fg8jkhdQKgJ1L_TgxHfiNx1md57kvtK4/view?usp=sharing)
+![cgpa](https://github.com/abhijite-bd/Software-Engineering/assets/72153723/84ffa4f6-2cb1-4705-8182-7b60de7d7b7c)  
+cgpa calculator  
+![course](https://github.com/abhijite-bd/Software-Engineering/assets/72153723/00a19e0b-a859-401e-9cc2-107cee9ea961)  
+course management  
+![resource](https://github.com/abhijite-bd/Software-Engineering/assets/72153723/eefd9310-699f-473d-8249-9a83d178a47a)  
+resource sharing 
 ## 4. Implementation (Coding) Phase - Academic Assistant: Code Craft
 During this phase, the development team begins coding based on the design specifications.
 #### Activities:
