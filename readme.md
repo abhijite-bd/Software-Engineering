@@ -105,7 +105,7 @@ Develop the back-end functionality, including databases, server logic, and integ
 ## 5. Testing Phase - Academic Assistant: Test Forge
 The testing phase ensures the quality and functionality of the Academic Assistant platform.  
 ![testing](https://github.com/abhijite-bd/Software-Engineering/assets/72153723/6dfd3bd9-2c28-43c1-b50c-05fff0d86b08)  
-Build Successfull...
+Build Successfull...  
 **Activities:**
 Conduct unit testing to validate the functionality of individual components.
 Perform integration testing to ensure seamless communication between different modules.
